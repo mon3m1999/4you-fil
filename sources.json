@@ -1,5 +1,19 @@
 {
-  "sources": [],
-  "lastUpdated": "2026-01-16T22:51:42.091Z",
+  "sources": [
+    {
+      "id": "g6vi0q4rg",
+      "name": "التعلم الإلكتروني ورؤية مصر 2030",
+      "originalFileName": "1768603940916_التعلم الإلكتروني ورؤية مصر 2030.pdf",
+      "type": "PDF",
+      "category": "repository",
+      "content": "https://raw.githubusercontent.com/mon3m1999/4you-files/main/1768603920167_التعلم الإلكتروني ورؤية مصر 2030.pdf",
+      "mimeType": "application/pdf",
+      "theme": "cyan",
+      "sha": "220d7d8d4baa8b4122b95879b85b3c25da14a31f",
+      "size": 8187694,
+      "uploadedAt": "2026-01-16T22:52:20.916Z"
+    }
+  ],
+  "lastUpdated": "2026-01-16T22:52:25.342Z",
   "version": "1.0"
 }
